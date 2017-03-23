@@ -1,0 +1,22 @@
+User Story: Create a game for my kids to help them with basic math.
+
+Requirements:
+1. Enter in a player name
+2. Select type of operator (+, -, *, /)
+3. Limit the range of numbers availalble
+	3a. 0 to 1000
+4. Lock in one number to practice that number specifically
+5. Have two random numbers based on parameters set
+6. Have timer in minutes and seconds that count down
+7. Timer starts to count down with first problem is answered
+8. Create random math problems with parameters selected
+9. Create log
+	9a. Math problem
+	9b. Correct answer
+	9c. Answer given
+	9d. Where it was correct
+	9e. Total number of questions
+	9f. Total number of answers given correctly
+	9g. Total number of answers given incorrectly
+10. Ability to review logs
+
